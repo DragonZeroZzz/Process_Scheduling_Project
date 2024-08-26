@@ -63,8 +63,12 @@ The simulator takes input for process IDs, arrival times, and burst times, then 
 
 ### Output:
 
-- **FCFS:** 
-- **SJF:** 
+- **FCFS:**
+  <span align="center">
+    <img src=.\img\FCFS-example.png>
+  </span>
+- **SJF (non-preemptive):**
+- **SJF (preemptive):** 
 - **RR:** 
 
 
