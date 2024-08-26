@@ -3,11 +3,6 @@
 This project is a part of CSS225 class at SIIT.
 This project utilize turtle and tkinter library.
 
-contibutor:
-Sorawit Chokphantavee,
-Sirawit Chokphantavee,
-Narinthorn Chinvorarat,
-Nathanon Rookheb
 
 ## License
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
