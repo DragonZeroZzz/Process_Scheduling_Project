@@ -62,24 +62,24 @@ The simulator takes input for process IDs, arrival times, and burst times, then 
 - **Burst Times:** 10, 5, 15, 20, 5
 
 ### Output FCFS:
-  <span align="center">
+  <p align="center">
     <img src=.\img\FCFS-example.png>
-  </span>
+  </p>
 
 ### Output SJF (non-preemptive):
- <span align="center">
+ <p align="center">
     <img src=.\img\SJF-non-preemptive-example.png>
-  </span>
+  </p>
   
 ### Output SJF (preemptive): 
- <span align="center">
+ <p align="center">
     <img src=.\img\SJF-preemptive-example.png>
-  </span>
+  </p>
   
 ### Output RR: 
-  <span align="center">
+  <p align="center">
     <img src=.\img\RR-example.png>
-  </span>
+  </p>
   
 
 
