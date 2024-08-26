@@ -40,6 +40,32 @@ This project is a graphical simulation of different CPU scheduling algorithms im
 - Select the scheduling algorithm you want to simulate (FCFS, SJF, RR).
 - Click "Start Simulation" to see the visual representation of the process scheduling.
 
+## User Interface
+The user interface (UI) of the Process Scheduling Simulator is designed to be simple and intuitive, making it easy for users to input data and visualize the scheduling algorithms. It is built using Python's Tkinter library and consists of the following components:
+
+- Input Section:
+  - Process ID: A text field to input the unique identifier for each process.
+  - Arrival Time: A text field to enter the time at which each process arrives in the queue.
+  - Burst Time: A text field for entering the CPU burst time required by each process.
+
+-Algorithm Selection:
+  - A set of radio buttons allowing the user to choose between FCFS, SJF, and RR scheduling algorithms.
+
+- Simulation Controls:
+  - Additional Process: Buttons to add or remove the number of process to simulate. 
+  - Start Simulation: A button that begins the simulation based on the entered data and selected algorithm.
+
+- Output Section:
+  -  Displays the Gantt chart representing the execution order of processes.
+  -  Shows calculated metrics such as average waiting time, turnaround time, and response time.
+ 
+This is an example of our system's user interface.
+
+<p align="center">
+  <img src=./img/User-interface.png>
+</p>
+
+
 ## Scheduling Algorithms
 ### First-Come, First-Served (FCFS)
 - **Description:** The simplest scheduling algorithm, where the process that arrives first is executed first.
