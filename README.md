@@ -5,6 +5,7 @@ This project is a graphical simulation of different CPU scheduling algorithms im
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [User Interface](#user-interface)
 - [Scheduling Algorithms](#scheduling-algorithms)
   - [First-Come, First-Served (FCFS)](#first-come-first-served-fcfs)
   - [Shortest Job First (SJF)](#shortest-job-first-sjf)
