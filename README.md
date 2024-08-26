@@ -1,5 +1,5 @@
 # Process Scheduling Simulation using Python Tkinter and turtle
-This project is a graphical simulation of different CPU scheduling algorithms implemented using Python's Tkinter and Turtle libraries. The simulator visualizes the execution of processes using First-Come, First-Served (FCFS), Shortest Job First (SJF), and Round Robin (RR) scheduling algorithms.
+This project is a graphical simulation of different CPU scheduling algorithms implemented using Python's Tkinter and Turtle libraries. The simulator visualizes the execution of processes using First-Come, First-Served (FCFS), Shortest Job First (SJF), and Round Robin (RR) scheduling algorithms. This project was a part of the course CSS225 Operating System by SIIT.
 
 ## Table of Contents
 - [Features](#features)
