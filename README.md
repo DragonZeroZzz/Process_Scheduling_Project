@@ -49,7 +49,7 @@ The user interface (UI) of the Process Scheduling Simulator is designed to be si
   - Arrival Time: A text field to enter the time at which each process arrives in the queue.
   - Burst Time: A text field for entering the CPU burst time required by each process.
 
--Algorithm Selection:
+- Algorithm Selection:
   - A set of radio buttons allowing the user to choose between FCFS, SJF, and RR scheduling algorithms.
 
 - Simulation Controls:
