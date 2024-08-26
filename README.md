@@ -24,7 +24,7 @@ This project is a graphical simulation of different CPU scheduling algorithms im
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/SorawitChok/Process-Scheduling-Simulation-Projec.git
+   git clone https://github.com/SorawitChok/Process-Scheduling-Simulation-Project.git
    ```
 
 2. **Install the required dependencies:**
